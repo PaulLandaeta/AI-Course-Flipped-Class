@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Archivos temporales de Microsoft Office (bloqueo de Word/Excel)
+~$*
+
+# Temporales
+*.tmp
